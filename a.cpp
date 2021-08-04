@@ -7,7 +7,7 @@
 // 为了git diff而修改
 int main() {
 	std::cout << "My name is Mu." << std::endl;
-
+    std::cout << "test git" << std::endl;
 
 
 
